@@ -1,0 +1,4 @@
+E:\Coding\Assembly\Question\Question 1\Debug\Project.exe
+E:\Coding\2021-CS-25\Question 1\Debug\Project.exe
+E:\Coding\2021-CS-25\Question 2\Debug\Project.exe
+E:\Coding\2021-CS-25\Question 5\Debug\Project.exe

@@ -1,0 +1,11 @@
+﻿  Source.asm
+E:\Coding\Assembly\Project1\Source.asm(3,1): error C2059: syntax error: 'constant'
+E:\Coding\Assembly\Project1\Source.asm(11,1): error C3927: '->': trailing return type is not allowed after a non-function declarator
+E:\Coding\Assembly\Project1\Source.asm(11,1): error C3484: syntax error: expected '->' before the return type
+E:\Coding\Assembly\Project1\Source.asm(11,2): error C3613: missing return type after '->' ('int' assumed)
+E:\Coding\Assembly\Project1\Source.asm(12,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Coding\Assembly\Project1\Source.asm(11,2): error C2146: syntax error: missing ';' before identifier 'code'
+E:\Coding\Assembly\Project1\Source.asm(13,20): error C2143: syntax error: missing ';' before 'constant'
+E:\Coding\Assembly\Project1\Source.asm(13,20): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+E:\Coding\Assembly\Project1\Source.asm(14,20): error C2143: syntax error: missing ';' before 'constant'
+E:\Coding\Assembly\Project1\Source.asm(14,20): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
